@@ -1,0 +1,2 @@
+# Composition
+The three classes namely Student,Course &amp; Subject class together with a FrontEnd class that uses an Arraylist of type student to store data temporarily.  The application calculates a final mark based on the weight.  Class test 1 weight 40%  and class test 2 weight 60%, the student pass  the subjects if the final mark is greater than 49% otherwise is fail.  The application will print number of student who passed the subject and those who failed the subject.
